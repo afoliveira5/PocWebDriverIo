@@ -1,0 +1,15 @@
+{
+  "name": "pocaparecido",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wdio.conf.js",
+  "dependencies": {
+    "wdio-cucumber-framework": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
